@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "宇宙人",
+  "base_artist": "Zettakun",
+  "createdAt": "2026-03-13T13:40:52.752737Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "晴れる道 ~宇宙人(オメェら)に合わせる顔がねぇ!~",
+      "artist": "JK(次長課長)",
+      "has_synced": true,
+      "path": "select/01_晴れる道_~宇宙人(オメェら)に合わせる顔がねぇ!~_JK(次長課長).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "晴れる道 ～宇宙人(オメェら)に合わせる顔がねぇ!～",
+      "artist": "次長課長",
+      "has_synced": true,
+      "path": "select/02_晴れる道_~宇宙人(オメェら)に合わせる顔がねぇ!~_次長課長.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Os-宇宙人",
+      "artist": "エリオをかまってちゃん",
+      "has_synced": true,
+      "path": "select/03_Os-宇宙人_エリオをかまってちゃん.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "晴れる道 ～宇宙人（オメェら）に合わせる顔がねぇ！～",
+      "artist": "JK(次長課長)",
+      "has_synced": false,
+      "path": "select/04_晴れる道_~宇宙人(オメェら)に合わせる顔がねぇ!~_JK(次長課長).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Os-宇宙人",
+      "artist": "Erio wo Kamattechan",
+      "has_synced": true,
+      "path": "select/05_Os-宇宙人_Erio_wo_Kamattechan.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宇宙人",
+      "artist": "ぜったくん",
+      "has_synced": false,
+      "path": "select/pl_01_宇宙人_ぜったくん.txt"
+    }
+  ]
+}
